@@ -1,0 +1,18 @@
+﻿  task.cpp
+c:\users\bill\desktop\new folder\project 8 the newest\project 8 comments\project6\task.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  skill.cpp
+  player.cpp
+  main.cpp
+  magicWeapon.cpp
+  magicShield.cpp
+  MagicHouse.cpp
+c:\users\bill\desktop\new folder\project 8 the newest\project 8 comments\project6\magichouse.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  LinkedList.cpp
+  item.cpp
+  game.cpp
+c:\users\bill\desktop\new folder\project 8 the newest\project 8 comments\project6\game.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  fourt.cpp
+  enemy.cpp
+  Generating Code...
+  Project6.vcxproj -> C:\Users\Bill\Desktop\New folder\Project 8 the Newest\Project 8 comments\Debug\Project6.exe
+  Project6.vcxproj -> C:\Users\Bill\Desktop\New folder\Project 8 the Newest\Project 8 comments\Debug\Project6.pdb (Full PDB)
